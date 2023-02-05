@@ -1,6 +1,6 @@
 # aceptaelreto #
 
-Aqui se iran colgando las soluciones explicadas de la plataforma de programación competitiva aceptaelreto.com
+Aqui se iran colgando las soluciones explicadas de la plataforma de programación competitiva [aceptaelreto](aceptaelreto.com)
 
 El objetivo de este repositorio es ayudar a aquellas personas con una dificultad particular en algun ejercicio especifico, y para aquellas que ya lo han resuelto, descubrir nuevas formas de crear un mismo algoritmo.
 
