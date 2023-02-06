@@ -4,7 +4,8 @@
 	Numero: 663 (Volumen 6)
 	Autor: focab0r
 
-Se trata de un programa sencillo, en el cual simplemente restando 1 a los años positivos, conseguimos transformarlos a años del supuesto calendario. Como a los numeros negativos no les afecta el 0, simplemente se printean igual.
+Se trata de un programa sencillo, en el cual simplemente restando 1 a los años positivos, conseguimos transformarlos a años del supuesto calendario. 
+Como a los numeros negativos no les afecta el 0, simplemente se printean igual.
 
 */
 
