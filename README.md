@@ -1,4 +1,4 @@
-# aceptaelreto #
+# AceptaElReto #
 
 Aqui se iran colgando las soluciones explicadas de la plataforma de programación competitiva [aceptaelreto](https://aceptaelreto.com)
 
@@ -6,4 +6,4 @@ El objetivo de este repositorio es ayudar a aquellas personas con una dificultad
 
 
 ## Bugs o comentarios ##
-Se admiten bugs o comentarios por medio de la pestaña Issues de GitHhub
+Se admiten bugs o comentarios por medio de la pestaña Issues de GitHub
